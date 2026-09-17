@@ -1,0 +1,16 @@
+{
+  "name": "AGS Chandigam Digital Dashboard",
+  "short_name": "AGS Dashboard",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#12385f",
+  "description": "Central access to Army Goodwill School Chandigam digital services.",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
